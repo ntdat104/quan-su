@@ -1,7 +1,5 @@
 # Quân sự
 
-# a
-
 1. Bước 2 tập hợp đội ngũ trung đội 2 hàng ngang là...?
    - Chỉnh đốn hàng ngũ
 1. Bước 3 tập hợp đội ngũ trung đội 2 hàng dọc là gì?
